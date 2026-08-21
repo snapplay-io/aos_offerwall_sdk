@@ -1,4 +1,10 @@
 ## 2026
+### v1.0.33 (2026.06.22)
+ * 세션 정보에 기기 언어 및 국가 코드 추가(ph_lang, cntry_cd)
+
+### v 1.0.28 (2026.04.17)
+ * S2Offerwall.getAppId() 추가
+ * S2Offerwall.requestMaxPointData() 추가, 호출 결과 예시 : {"ret_cd":0,"ret_info":[{"adv_amt":8614591,"adv_cnt":1344,"pnt_unit":"P","sts_hrs":493438}]}
 
 ### v 1.0.25 (01/16)
 * 화면 이동시 (redirect 이동인 경우) 빈 화면 생기는 버그 수정
